@@ -1,0 +1,62 @@
+body,h1,h2,p,ul,li{
+    margin:10;
+    padding: 0;
+}
+nav{
+    text-align: right;
+    background-color: #068206;
+    color: white;
+    padding: 10px;
+}
+nav ul{
+    list-style-type: disc;
+}
+nav ul li{
+    text-align: right;
+    display: inline;
+    color: rgb(4, 108, 11);
+}
+nav ul li a{
+    padding: 20;
+    color: rgb(11, 10, 14);
+    text-decoration: dotted;
+    font-size: medium;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    color: rgb(118, 15, 6);
+}
+h5{
+    text-align: center;
+}
+nav ul li a:hover{
+    text-align: right;
+    text-decoration: underline;
+}
+footer{
+    background-color: rgb(10, 9, 10);
+    color: aliceblue;
+    text-align: center;
+    padding: 10px 0;
+}
+body{
+    background-image: url("C:\UI development\Project4-(218B1A4413)\New Releases.jpg.");
+    height: 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+    font-family: cursive;
+    font-size: 30px;
+    padding-right: 30px;
+    padding-left: 400px;
+    color: rgb(142, 40, 9);
+}
+p{
+    font-size: larger;
+    color: solid black;
+    text-align: center;
+}
+
+
